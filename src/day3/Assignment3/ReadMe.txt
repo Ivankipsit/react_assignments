@@ -14,3 +14,6 @@ function App() {
 }
 
 export default App;
+
+
+copy paste lines 1-16 in src/App.js to execute the code
